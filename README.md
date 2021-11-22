@@ -9,7 +9,7 @@ Obrigado
 
 My First portfolio
 
-I Will submit here my evolution learning python. i am a Business studente and i don't know nothing about pythom.
+I Will submit here my evolution learning python. I am a Business studente and i don't know nothing about pythom.
 Every tip to help me to boost my learning and improve my coding skills will be wellcome.
 
 Thank you
